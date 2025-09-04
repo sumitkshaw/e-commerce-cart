@@ -22,8 +22,7 @@ You can check out a live demo of this project [here](https://shopping-cart-new-o
 - User authentication (signup, login, logout).
 - Form validation using
 - Add products to the shopping cart.
-- Manage the shopping cart (add, remove, update items).
-- Product detail page.
+
 
 ## Technologies Used
 
