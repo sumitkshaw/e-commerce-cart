@@ -58,11 +58,6 @@ You can check out a live demo of this project [here](https://shopping-cart-new-o
 npm install
 ```
 
-in the root directory to install the required dependencies.
-
-- Configure the MongoDB connection string in the server configuration file.
-- Run
-
 ```
 npm run dev
 ```
